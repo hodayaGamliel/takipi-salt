@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv":{"guestpath":"/srv","hostpath":"/Users/takipimbp1/Projects/try/salt-takipi-installation/salt-tester/salty-vagrant/example/masterless/salt/roots","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/takipimbp1/Projects/try/salt-takipi-installation/salt-tester/salty-vagrant/example/masterless","disabled":false}}}
